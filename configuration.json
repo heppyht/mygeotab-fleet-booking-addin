@@ -1,10 +1,10 @@
 {
   "name": "Vehicle Booking",
-  "supportEmail": "replace-with-support-email@example.com",
+  "supportEmail": "heppy@opexcg.com",
   "version": "1.0.0",
   "items": [
     {
-      "url": "https://YOUR_HTTPS_HOST/fleet-summary.html",
+      "url": "https://heppyht.github.io/mygeotab-fleet-booking-addin/fleet-summary.html",
       "path": "ActivityLink/",
       "menuName": {
         "en": "Vehicle Booking",

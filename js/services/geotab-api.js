@@ -1,7 +1,7 @@
 (function (root) {
   'use strict';
 
-  var ADDIN_ID = 'ai5fRp8iC8N8GSxWdIg7PTw';
+  var ADDIN_ID = 'aiK7m4N9p2Q6rS8uV3wXzT0yQ5fE';
 
   function apiCall(api, method, parameters) {
     return new Promise(function (resolve, reject) {

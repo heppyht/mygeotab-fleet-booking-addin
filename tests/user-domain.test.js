@@ -121,6 +121,6 @@ test('returns only active Driver accounts sorted by full name', () => {
 
 test('geotab-api service preserves ADDIN_ID and queries GroupSecurityId', () => {
   const apiSource = fs.readFileSync(path.resolve(__dirname, '../js/services/geotab-api.js'), 'utf8');
-  assert.match(apiSource, /ADDIN_ID\s*=\s*'ai5fRp8iC8N8GSxWdIg7PTw'/);
+  assert.match(apiSource, /ADDIN_ID\s*=\s*'aiK7m4N9p2Q6rS8uV3wXzT0yQ5fE'/);
   assert.match(apiSource, /typeName:\s*'Group',[\s\S]*?search:\s*\{\s*id:\s*'GroupSecurityId'\s*\}/);
 });
